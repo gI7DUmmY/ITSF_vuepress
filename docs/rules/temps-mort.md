@@ -10,7 +10,7 @@ Si la balle est en jeu, le temps mort ne peut être demandé que par l’équipe
 Les deux équipes peuvent prendre les 30 secondes dans leur intégralité, même si l’équipe ayant demandé le temps mort ne désire pas prendre tout le temps qui lui est alloué.
 
 ### 9.2
-Lors de toute compétition de double, les deux équipes peuvent changer de position durant un temps mort ([voir article 14.1](./Changement-de-positions)).
+Lors de toute compétition de double, les deux équipes peuvent changer de position durant un temps mort ([voir article 14.1](/rules/positions.md)).
 
 ### 9.3
 Un temps mort demandé entre deux manches sera considéré comme l’un des deux temps morts de la manche suivante.
@@ -26,7 +26,7 @@ Le temps de possession continue pendant que le Joueur essuie ses mains. L’équ
 Une fois que la main ou le poignet est replacé sur la poignée, un tir ou une passe ne peut être exécuté avant une seconde suivant cette reprise de la poignée.
 
 ### 9.5
-Si l’équipe qui a la possession de la balle exécute un tir ou une passe immédiatement après avoir demandé un temps mort, cette action de jeu n’est pas valide, et l’équipe se verra attribuée une faute de distraction ([voir article 20](./Distraction)), plutôt qu''un temps mort.
+Si l’équipe qui a la possession de la balle exécute un tir ou une passe immédiatement après avoir demandé un temps mort, cette action de jeu n’est pas valide, et l’équipe se verra attribuée une faute de distraction ([voir article 20](/rules/distraction.md)), plutôt qu'un temps mort.
 
 ### 9.6
 Si l’équipe en possession de la balle demande un temps mort pendant que la balle est en jeu et en mouvement, le temps mort ne débute pas avant que la balle ne s'arrête complètement. Si le temps de possession expire avant que la balle ne s'arrête complètement, l’équipe sera pénalisée selon [l'article 24.3](./Temps-de-possession).

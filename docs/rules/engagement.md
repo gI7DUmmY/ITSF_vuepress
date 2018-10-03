@@ -14,7 +14,7 @@ Si le but a été marqué, aucune réclamation ne sera prise en compte. <br>
 La pénalité pour la répétition de cette infraction est la perte de la possession de la balle au profit de l’adversaire pour engagement.
 
 ### 4.2
-Avant que la balle puisse être mise en jeu, le Joueur en possession de la balle doit demander à son adversaire direct si celui-ci est « prêt ». L’adversaire direct dispose alors de trois secondes pour répondre « prêt ». Le Joueur en possession de la balle a ensuite trois secondes pour mettre la balle en jeu. Dépasser ce délai sera considéré comme un retardement de la partie ([voir article 25](./Retardement-de-la-partie)).
+Avant que la balle puisse être mise en jeu, le Joueur en possession de la balle doit demander à son adversaire direct si celui-ci est « prêt ». L’adversaire direct dispose alors de trois secondes pour répondre « prêt ». Le Joueur en possession de la balle a ensuite trois secondes pour mettre la balle en jeu. Dépasser ce délai sera considéré comme un retardement de la partie ([voir article 25](/rules/retard.md)).
 
 #### 4.2.1
 La pénalité pour avoir mis la balle en jeu avant que l’adversaire a répondu « prêt » est un avertissement, et la balle doit être remise en jeu depuis sa position d’origine. <br>

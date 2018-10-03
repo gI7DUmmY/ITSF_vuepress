@@ -2,6 +2,9 @@ module.exports = {
   title: 'Règles ITSF',
   description: 'résumé du règlement ITSF',
   port: 8008,
+  head: [
+    ['link', { rel: 'icon', href: '/images/logo.png' }]
+  ],
   themeConfig: {
     nav: [
       { text: 'Accueil', link: '/' },
