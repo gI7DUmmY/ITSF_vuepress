@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Règles ITSF',
   description: 'résumé du règlement ITSF',
+  base: '/itsf_rules/',
   port: 8008,
   head: [
     ['link', { rel: 'icon', href: '/images/logo.png' }]
