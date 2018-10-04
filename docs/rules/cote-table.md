@@ -11,7 +11,7 @@ Si les deux équipes décident de ne pas changer de côté après la première m
 Si les deux équipes souhaitent reprendre le jeu avant que la totalité des 90 secondes ne soit écoulée, le jeu peut reprendre et le temps restant est annulé.
 
 ### 13.2
-Si une équipe n’est pas prête à jouer lorsque les 90 secondes sont écoulées, cette équipe se verra attribuée une pénalité pour avoir retardé la partie ([voir l'article 25](./Retardement-de-la-partie)).
+Si une équipe n’est pas prête à jouer lorsque les 90 secondes sont écoulées, cette équipe se verra attribuée une pénalité pour avoir retardé la partie ([voir l'article 25](/rules/retard.md)).
 
 ### 13.3
 Le Directeur de tournoi peut exiger des équipes qu'elles restent du même côté lors de matchs télévisés ou enregistrés.

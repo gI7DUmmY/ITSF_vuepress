@@ -16,4 +16,4 @@ Un déplacement involontaire de la balle, ou l'utilisation d'un joueur pour posi
 ### 21.2
 La pénalité pour un entraînement illégal est la perte de la possession de la balle au profit de l’équipe adverse pour engagement. <br>
 Si le Joueur fautif n’est pas en possession de la balle, il recevra un avertissement. <br>
-Les infractions suivantes donneront lieu à un penalty ([voir article 27](./Penalty)).
+Les infractions suivantes donneront lieu à un penalty ([voir article 27](/rules/penalty.md)).

@@ -13,7 +13,7 @@ Dans la zone du défenseur, une balle est considérée comme ayant été avancé
 
 ### 24.2
 Une balle qui tourne sur elle-même et qui est placée à un endroit où elle peut être touchée par un joueur est considérée comme étant dans la zone de possession de cette barre et le temps de possession continue alors à s’écouler. <br>
-Toutefois, si la balle qui tourne sur elle-même n’est pas à la portée d’un joueur, alors le temps de possession n’est pas affecté ([voir article 8.3](./Balle-immobilis%C3%A9e)).
+Toutefois, si la balle qui tourne sur elle-même n’est pas à la portée d’un joueur, alors le temps de possession n’est pas affecté ([voir article 8.3](/rules/balle-immo.md#_8-3)).
 
 ### 24.3
 La pénalité pour avoir dépassé le temps de possession à la barre des 3 est la perte de possession en faveur du défenseur adverse. <br>

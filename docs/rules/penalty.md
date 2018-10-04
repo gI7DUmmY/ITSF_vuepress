@@ -17,7 +17,7 @@ Un Joueur est considéré comme ayant exécuté son penalty une fois que la ball
 Le tir est considéré comme bloqué une fois que la balle s’est arrêtée ou qu’elle a quitté la zone d’influence du défenseur.
 
 ### 27.2
-Pour exécuter un tir, lors du penalty, la balle doit être mise en jeu avant le tir selon le protocole du « prêt » ([voir article 4](./L%E2%80%99Engagement-et-le-Protocole-du-%22pr%C3%AAt%22)). <br>
+Pour exécuter un tir, lors du penalty, la balle doit être mise en jeu avant le tir selon le protocole du « prêt » ([voir article 4](/rules/engagement.md)). <br>
 Par la suite, tous les articles, incluant les limites de temps et les « reset », s’appliquent.
 
 ### 27.3

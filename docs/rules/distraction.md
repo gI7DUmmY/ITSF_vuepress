@@ -33,4 +33,4 @@ Un Joueur qui enlève ses mains des poignées et se baisse ou s’éloigne de la
 Lors de la première pénalité pour distraction, l’équipe fautive peut ne recevoir qu’un avertissement si l’arbitre présent à la table estime que cette distraction est inoffensive. <br>
 Si un but résultant d’une distraction causée par l’équipe ayant la balle est marqué, ce but ne comptera pas et l’équipe adverse engagera la balle. <br>
 Dans tous les autres cas, l’équipe adverse a le choix entre continuer comme si aucune distraction n’avait été commise, continuer à partir de l’endroit où l’infraction a été commise ou réengager la balle. <br>
-Toute infraction suivante peut entraîner un penalty ([voir article 27](./Penalty)).
+Toute infraction suivante peut entraîner un penalty ([voir article 27](/rules/penalty.md)).

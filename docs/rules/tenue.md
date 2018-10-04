@@ -20,4 +20,4 @@ Il est recommandé, mais non obligatoire, que la tenue portée soit aux couleurs
 
 ### 29.4
 La pénalité pour avoir enfreint le code vestimentaire peut être la perte d’une manche ou d’un match. <br>
-Un Joueur se trouvant en infraction vis-à-vis du code vestimentaire pendant un match doit changer sa tenue avant de reprendre le jeu et l’équipe sera chargée d’une pénalité pour retardement de la partie ([voir article 25](./Retardement-de-la-partie)).
+Un Joueur se trouvant en infraction vis-à-vis du code vestimentaire pendant un match doit changer sa tenue avant de reprendre le jeu et l’équipe sera chargée d’une pénalité pour retardement de la partie ([voir article 25](/rules/retard.md)).

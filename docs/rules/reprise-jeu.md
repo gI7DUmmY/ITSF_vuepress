@@ -6,7 +6,7 @@ sidebarDepth: 2
 Après un temps mort, la balle doit être remise en jeu à la barre de possession où elle se situait lorsque le temps mort a été demandé.
 
 ### 10.1
-Le protocole du « prêt » doit être respecté lors d'une remise en jeu suite à un temps mort ([voir article 4.2](./L%E2%80%99Engagement-et-le-Protocole-du-%22pr%C3%AAt%22)).
+Le protocole du « prêt » doit être respecté lors d'une remise en jeu suite à un temps mort ([voir article 4.2](/rules/engagement.md)).
 
 #### 10.1.1
 Dès que le Joueur en possession de la balle remet ses mains sur les poignées, si la balle quitte la barre de 

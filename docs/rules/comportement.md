@@ -4,11 +4,11 @@ sidebarDepth: 2
 
 ## 22. Langage et Comportement
 Les commentaires ou conduites antisportifs faits directement ou indirectement à l’encontre d’un Joueur sont interdits. <br>
-Enfreindre cet article peut entraîner un penalty ([voir article 27](./Penalty)).
+Enfreindre cet article peut entraîner un penalty ([voir article 27](/rules/penalty.md)).
 
 ### 22.1
-Tenter d’attirer l’attention de l’équipe adverse en dehors de la partie en cours n’est pas autorisé ([voir article 20](./Distraction)). <br>
-Toute forme de cri ou de son émis dans un match, même de nature enthousiaste, peut entraîner un penalty ([voir article 27](./Penalty)).
+Tenter d’attirer l’attention de l’équipe adverse en dehors de la partie en cours n’est pas autorisé ([voir article 20](/rules/distraction.md)). <br>
+Toute forme de cri ou de son émis dans un match, même de nature enthousiaste, peut entraîner un penalty ([voir article 27](/rules/penalty.md)).
 
 ### 22.2
 Il est interdit pour un Joueur de jurer. La pénalité pour cette infraction est un penalty. <br>

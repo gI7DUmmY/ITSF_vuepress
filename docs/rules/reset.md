@@ -27,9 +27,9 @@ Un « reset » intentionnel causé par l'équipe en possession de la balle dans 
 L’équipe fautive perdra la possession de la balle, qui sera engagée par l’équipe adverse (cela n’est pas comptabilisé en tant que « reset »).
 
 ### 17.6
-Après le premier « reset » donné contre une équipe dans une manche, si cette équipe cause deux « reset » successifs durant le même point, elle se verra sanctionnée par un penalty ([voir article 27](./Penalty)) pour l’adversaire. <br>
+Après le premier « reset » donné contre une équipe dans une manche, si cette équipe cause deux « reset » successifs durant le même point, elle se verra sanctionnée par un penalty ([voir article 27](/rules/penalty.md)) pour l’adversaire. <br>
 Une fois que le premier « reset » est donné, l’arbitre présent signalera toute infraction suivante par les mots « reset warning » ou simplement « warning » (« avertissement »). <br>
-Si une autre infraction donnant lieu à un « reset » est commise sur la même balle après un « reset warning », un penalty ([voir article 27](./Penalty)) devra être donné.
+Si une autre infraction donnant lieu à un « reset » est commise sur la même balle après un « reset warning », un penalty ([voir article 27](/rules/penalty.md)) devra être donné.
 
 #### 17.6.1
 Si un penalty est donné en raison d’un nombre excessif de « reset », le « reset » suivant ne donnera pas lieu à un penalty.

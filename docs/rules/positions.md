@@ -17,7 +17,7 @@ Cependant, si l'équipe en possession de la balle change de positions, l'équipe
 On considère qu'une équipe a effectué un changement de positions une fois que les deux Joueurs sont à leur place respective faisant face à la table, qu'ils aient touché les poignées ou pas.
 
 ### 14.3
-Un changement de position lorsque la balle est en jeu est illégal et sera considéré comme une distraction ([voir l'article 20](./Distraction)). Les Joueurs doivent alors revenir à leurs positions de départ.
+Un changement de position lorsque la balle est en jeu est illégal et sera considéré comme une distraction ([voir l'article 20](/rules/distraction.md)). Les Joueurs doivent alors revenir à leurs positions de départ.
 
 #### 14.3.1
-Dans n’importe quel événement de double, un Joueur plaçant ses mains sur une barre normalement attribuée à son partenaire se verra infliger une pénalité pour distraction ([voir l'article 20](./Distraction)).
+Dans n’importe quel événement de double, un Joueur plaçant ses mains sur une barre normalement attribuée à son partenaire se verra infliger une pénalité pour distraction ([voir l'article 20](/rules/distraction.md)).

@@ -17,14 +17,14 @@ Les pulvérisateurs ne sont pas autorisés.
 #### 19.1.2
 Tout Joueur utilisant une substance sur ses mains pour améliorer l'adhérence doit s’assurer que cette substance ne se retrouve pas sur la surface de jeu, sur les barres ou sur la balle. <br>
 Si la substance se retrouve sur la surface de jeu ou sur les barres, elle devra être enlevée avant de continuer à jouer, et si la balle est affectée elle devra être remplacée. <br>
-Le Joueur responsable devra être pénalisé pour avoir retardé la partie ([voir article 25](./Retardement-de-la-partie)). <br>
+Le Joueur responsable devra être pénalisé pour avoir retardé la partie ([voir article 25](/rules/retard.md)). <br>
 Si la situation se reproduit, le Joueur sera sanctionné d'un penalty et interdit d’utiliser la substance en question pour le reste du tournoi.
 
 ### 19.2
 Si un Joueur utilise une substance qui laisse un dépôt sur les poignées au moment de changer de côté, il recevra un avertissement et doit immédiatement nettoyer les poignées (dans le cas de poignées non interchangeables).
 
 #### 19.2.1
-Si le temps nécessaire pour enlever la substance dépasse 90 secondes, le Joueur sera pénalisé pour avoir retardé la partie ([voir article 25](./Retardement-de-la-partie)). <br> 
+Si le temps nécessaire pour enlever la substance dépasse 90 secondes, le Joueur sera pénalisé pour avoir retardé la partie ([voir article 25](/rules/retard.md)). <br> 
 Si la situation se reproduit, le Joueur sera interdit d’utiliser la substance en question pour le reste du tournoi.
 
 ### 19.3
@@ -33,7 +33,7 @@ Courber ou tordre une barre pour atteindre la balle est illégal et sanctionné 
 
 ### 19.4
 Un Joueur peut changer les poignées à l’extérieur de la table, s’il est possible de le faire durant le temps imparti et si cela n’empêche pas l’adversaire de changer de côté entre les manches. <br>
-Prendre trop de temps sera considéré comme un retardement de la partie ([voir article 25](./Retardement-de-la-partie)).
+Prendre trop de temps sera considéré comme un retardement de la partie ([voir article 25](/rules/retard.md)).
 
 ### 19.5
 Les Joueurs ont le droit de débuter chaque partie avec des balles neuves (si disponibles) ou peuvent accepter de jouer avec les balles proposées. <br>
@@ -48,4 +48,4 @@ Une fois la partie commencée, il n'est pas autorisé d'ajouter une autre balle 
 Un Joueur demandant une nouvelle balle alors que la balle est en jeu se verra décompté un temps mort, à moins que l’arbitre présent à la table estime que la balle est injouable, auquel cas aucun temps mort ne sera décompté.
 
 ### 19.6
-Sauf indication contraire, la sanction pour avoir enfreint cet article est un penalty ([voir article 27](./Penalty)) en faveur de l’équipe adverse.
+Sauf indication contraire, la sanction pour avoir enfreint cet article est un penalty ([voir article 27](/rules/penalty.md)) en faveur de l’équipe adverse.

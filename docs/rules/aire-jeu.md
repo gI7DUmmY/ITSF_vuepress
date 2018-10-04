@@ -15,7 +15,7 @@ Une balle en l’air au-dessus de la table est toujours en jeu jusqu’à ce qu�
 Il est interdit d’attraper au vol une balle au-dessus de la table.
 
 ### 18.3
-Une balle immobilisée est considérée comme hors-jeu ([voir article 8](./Balle-immobilis%C3%A9e)). <br>
+Une balle immobilisée est considérée comme hors-jeu ([voir article 8](/rules/balle-immo.md)). <br>
 La balle peut être touchée librement une fois seulement que l’arbitre ou, s’il n’y a pas d’arbitre, l’équipe adverse, a donné sa permission.
 
 ### 18.4
@@ -24,7 +24,7 @@ Il n’a pas besoin pour cela de demander la permission à l’équipe adverse.
 
 ### 18.5
 Pénalité pour avoir enfreint ces articles (18.1 à 18.3) – Si le Joueur est en possession de la balle et que celle-ci est arrêtée : perte de possession en faveur de l’équipe adverse pour engagement. <br>
-Si le Joueur n’est pas en possession de la balle ou que la balle est en mouvement : penalty ([voir article 27](./Penalty)). <br>
+Si le Joueur n’est pas en possession de la balle ou que la balle est en mouvement : penalty ([voir article 27](/rules/penalty.md)). <br>
 Si un Joueur accède à l’aire de jeu afin d’empêcher la balle d’entrer dans le but, un point est marqué pour l’équipe adverse et la balle sera engagée comme si elle était entrée dans le but.
 
 ### 18.6

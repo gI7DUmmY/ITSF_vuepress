@@ -15,4 +15,4 @@ Si une controverse survient quant à savoir si un but est entré ou pas, alors u
 Si les informations reçues ne lui permettent pas de parvenir à une conclusion, le but n’est pas valable.
 
 ### 12.3
-Toute équipe ajoutant intentionnellement un point n’ayant pas été marqué verra ce point retranché et sera de plus sanctionnée par un penalty ([voir article 27](./Penalty)) en faveur de l’équipe adverse. Des infractions répétées à cet article entraîneront la perte d’une manche ou d’un match (selon la décision de l’arbitre).
+Toute équipe ajoutant intentionnellement un point n’ayant pas été marqué verra ce point retranché et sera de plus sanctionnée par un penalty ([voir article 27](/rules/penalty.md)) en faveur de l’équipe adverse. Des infractions répétées à cet article entraîneront la perte d’une manche ou d’un match (selon la décision de l’arbitre).

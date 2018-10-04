@@ -22,4 +22,4 @@ De plus, l’équipe peut aussi être pénalisée pour retardement de la partie,
 
 ### 28.4
 Se disputer avec un arbitre officiel durant un match n’est pas permis. <br>
-Enfreindre cette règle entraînera une pénalité pour retardement de la partie et / ou une pénalité pour infraction au code de l’éthique ([voir article 1](./Code-de-l'%C3%A9thique)).
+Enfreindre cette règle entraînera une pénalité pour retardement de la partie et / ou une pénalité pour infraction au code de l’éthique ([voir article 1](/rules/code.md)).
