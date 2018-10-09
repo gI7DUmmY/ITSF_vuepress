@@ -9,12 +9,14 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Accueil', link: '/' },
+      { text: 'Définitions', link: '/definitions.md' },
       { text: 'Règlement', link: '/rules/' },
       { text: 'FFFT', link: 'http://www.ffft.fr/' }
     ],
     displayAllHeaders: false,
     sidebar: [
       ['/', 'Accueil'],
+      ['/definitions.md', 'Définitions'],
       {
         title: 'Règlement',
         collapsable: true,
