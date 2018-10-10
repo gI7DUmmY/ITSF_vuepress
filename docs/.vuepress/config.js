@@ -7,6 +7,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/images/logo.png' }]
   ],
   themeConfig: {
+    logo: '/images/logo.png',
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Définitions', link: '/definitions.md' },

@@ -7,9 +7,7 @@ sidebarDepth: 0
 
 <!-- ![logo_ffft](http://www.ffft.fr/sites/all/themes/ffft/images/site_logo_tablet.png) -->
 
-# Synthèse des règles ITSF
-
-## Synthèse des sanctions
+# Synthèse des sanctions
 
 | Faute/sanctions                               | Perte de la balle                                         | Avertissement                 | Penalty                                         | Perte de temps mort                                            | perte de manche                                    | Perte du match |
 | --------------------------------------------- | --------------------------------------------------------- | ----------------------------- | ----------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- | -------------- |
