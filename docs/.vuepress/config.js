@@ -8,20 +8,12 @@ module.exports = {
   ],
   themeConfig: {
     logo: '/images/logo.png',
-    lastUpdated: 'Dernière mise à jour',
-    serviceWorker: {
-      updatePopup: true, // Boolean | Object, default to undefined.
-      // If set to true, the default text config will be: 
-      updatePopup: { 
-         message: "Le contenu a été mis à jour", 
-         buttonText: "Rafraîchir" 
-      }
-    },
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Définitions', link: '/definitions.md' },
       { text: 'Règlement', link: '/rules/' },
-      { text: 'FFFT', link: 'http://www.ffft.fr/' }
+      { text: 'FFFT', link: 'http://www.ffft.fr/' },
+      { text: 'ATB', link: 'https://babyfoot-toulouse.fr' }
     ],
     displayAllHeaders: false,
     sidebar: [

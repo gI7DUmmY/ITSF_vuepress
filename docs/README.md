@@ -39,6 +39,3 @@ sidebarDepth: 0
 | 3ème penalty                                  |                                                           |                               |                                                 |                                                                |                                                    | X ([cf. 27.7](./rules/penalty.md#_27-7))   |
 | Contestation de décision ou appel infructueux |                                                           |                               |                                                 | X ([cf. 28.3](./rules/decisions.md#_28-3))                                                   |                                                    |                |
 | Code vestimentaire                            |                                                           |                               |                                                 |                                                                | X ([cf. 29.4](./rules/tenue.md#_29-4))                                       | X ([cf. 29.4](./rules/tenue.md#_29-4))   |
-
-Site développé par : Association Toulousaine de Babyfoot
-🌐 [Site Web](https://babyfoot-toulouse.fr)
