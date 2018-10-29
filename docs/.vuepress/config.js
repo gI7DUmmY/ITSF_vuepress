@@ -8,7 +8,7 @@ module.exports = {
   ],
   themeConfig: {
     logo: '/images/logo.png',
-    lastUpdated: 'Last Updated',
+    lastUpdated: 'Dernière mise à jour',
     serviceWorker: {
       updatePopup: true, // Boolean | Object, default to undefined.
       // If set to true, the default text config will be: 

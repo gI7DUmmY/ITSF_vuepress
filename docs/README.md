@@ -41,3 +41,4 @@ sidebarDepth: 0
 | Code vestimentaire                            |                                                           |                               |                                                 |                                                                | X ([cf. 29.4](./rules/tenue.md#_29-4))                                       | X ([cf. 29.4](./rules/tenue.md#_29-4))   |
 
 Site développé par : Association Toulousaine de Babyfoot
+🌐 [Site Web](https://babyfoot-toulouse.fr)
