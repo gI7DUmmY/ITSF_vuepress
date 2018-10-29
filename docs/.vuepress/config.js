@@ -8,6 +8,15 @@ module.exports = {
   ],
   themeConfig: {
     logo: '/images/logo.png',
+    lastUpdated: 'Last Updated',
+    serviceWorker: {
+      updatePopup: true, // Boolean | Object, default to undefined.
+      // If set to true, the default text config will be: 
+      updatePopup: { 
+         message: "Le contenu a été mis à jour", 
+         buttonText: "Rafraîchir" 
+      }
+    },
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Définitions', link: '/definitions.md' },
