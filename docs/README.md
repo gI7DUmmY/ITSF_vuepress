@@ -3,6 +3,7 @@ home: false
 heroImage: ./images/logo.png
 footer: MIT Licensed | Copyright © 2018-present
 sidebarDepth: 0
+pageClass: synthese
 ---
 
 <!-- ![logo_ffft](http://www.ffft.fr/sites/all/themes/ffft/images/site_logo_tablet.png) -->
