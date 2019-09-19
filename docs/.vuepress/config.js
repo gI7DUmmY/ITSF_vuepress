@@ -13,7 +13,7 @@ module.exports = {
       { text: 'Définitions', link: '/definitions.md' },
       { text: 'Règlement', link: '/rules/' },
       { text: 'FFFT', link: 'http://www.ffft.fr/' },
-      { text: 'ATB', link: 'https://babyfoot-toulouse.fr' }
+      { text: 'TFT', link: 'http://toulouseft.fr/blog/' }
     ],
     displayAllHeaders: false,
     sidebar: [
