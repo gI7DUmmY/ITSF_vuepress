@@ -3,9 +3,7 @@ module.exports = {
   description: 'résumé du règlement ITSF',
   base: '/itsf_rules/',
   port: 8008,
-  head: [
-    ['link', { rel: 'icon', href: '/images/logo.png' }]
-  ],
+  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
   themeConfig: {
     logo: '/images/logo.png',
     nav: [
@@ -13,7 +11,7 @@ module.exports = {
       { text: 'Définitions', link: '/definitions.md' },
       { text: 'Règlement', link: '/rules/' },
       { text: 'FFFT', link: 'http://www.ffft.fr/' },
-      { text: 'TFT', link: 'http://toulouseft.fr/blog/' }
+      { text: 'TFT', link: 'http://toulouseft.fr' },
     ],
     displayAllHeaders: false,
     sidebar: [
@@ -53,9 +51,9 @@ module.exports = {
           '/rules/penalty.md',
           '/rules/decisions.md',
           '/rules/tenue.md',
-          '/rules/directeur.md'
-        ]
-      }
-    ]
-  }
+          '/rules/directeur.md',
+        ],
+      },
+    ],
+  },
 }
